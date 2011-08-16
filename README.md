@@ -15,6 +15,7 @@ will result in :
 > hello!
 
 You can optionnaly pass a second argument which is a "timeHandler" function, which will be called before the callback, with 3 arguments:
+
 * difference (in µs)
 * start time (in µs)
 * end time   (in µs)
