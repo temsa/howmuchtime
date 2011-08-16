@@ -9,7 +9,9 @@ var howmuchtime = require('howmuchtime');
 setTimeout(howmuchtime(function(){console.log('hello!')}),20);
 ```
 will result in :
+
 > The callback call was done in 29437 µs
+
 > hello!
 
 You can optionnaly pass a second argument which is a "timeHandler" function, which will be called before the callback, with 3 arguments:
