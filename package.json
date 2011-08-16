@@ -1,7 +1,7 @@
 {
   "author": "Florian Traverse <florian.traverse@gmail.com> (https://github.com/temsa/)",
   "name": "howmuchtime",
-  "description": "Tells how many time (in µs) a callback has taken to be called",
+  "description": "Tells how much time (in µs) a callback has taken to be called",
   "version": "0.1.0",
   "homepage": "https://github.com/temsa/howmuchtime",
   "repository": {
