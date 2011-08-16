@@ -1,0 +1,20 @@
+{
+  "author": "Florian Traverse <florian.traverse@gmail.com> (https://github.com/temsa/)",
+  "name": "howmanytime",
+  "description": "Tells how many time (in µs) a callback has taken to be called",
+  "version": "0.1.0",
+  "homepage": "https://github.com/temsa/howmanytime",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/temsa/howmanytime.git"
+  },
+  "main": "lib/howmanytime.js",
+  "scripts": {
+    "test": "vows test/*.js"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
